@@ -85,7 +85,7 @@ MATERNAL_HEALTH/
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/maternal-health-nfhs5.git
+git clone https://github.com/kaushalkumarma2025/maternal_health.git
 cd maternal-health-nfhs5
 
 # Install dependencies
