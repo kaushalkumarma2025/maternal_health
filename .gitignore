@@ -2,6 +2,7 @@
 # Data files (too large for git, download separately — see README)
 # ============================================================================
 data/
+Data/
 *.xls
 *.xlsx
 *.dta
